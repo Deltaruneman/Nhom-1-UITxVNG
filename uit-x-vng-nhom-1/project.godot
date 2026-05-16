@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Nhom 1 UITxVNG"
+config/name="UIT x VNG Nhom 1"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
